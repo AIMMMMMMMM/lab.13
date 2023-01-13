@@ -8,7 +8,7 @@ class Marksheet {
 	 String name, fname,rollno;    
 	 int i, gtotal=0,count=0;
 	 String subject[] = { " SCD ", " Programming ", " Physics "," Computer "," Econimics "," DataBase "}; 
-	 String subcode[]= { "SCD-102","PR-103","PY-101","CP-103","EN-101","DB-101"};
+	 String subcode[]= { "SCD-109","PR-103","PY-101","CP-103","EN-101","DB-101"};
 	 int midmarks[]= new int[6];
 	 int semmarks[]= new int[6];
 	  Scanner s = new Scanner(System.in);
